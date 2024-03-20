@@ -1,0 +1,13 @@
+langchain
+langchain-community
+crewai
+crewai-tools
+openai
+pandas
+exa-py
+python-dotenv
+setuptools
+yfinance
+unstructured
+requests_html
+sec_api
