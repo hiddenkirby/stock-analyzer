@@ -1,6 +1,4 @@
-# response_automation
-
-CrewAI scripts, tasks, agents, and tools to explore the automation of analyzing and responding to complicated requests (RFI/RFQ/WhitePaper/etc)
+# stock_analysis
 
 # developer setup
 
