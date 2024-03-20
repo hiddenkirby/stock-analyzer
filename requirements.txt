@@ -11,3 +11,4 @@ yfinance
 unstructured
 requests_html
 sec_api
+faiss-cpu

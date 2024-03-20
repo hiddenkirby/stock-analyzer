@@ -60,7 +60,7 @@ class StockAnalysisAgents():
         return Agent(
             role='Private Investment Advisor',
             goal="""Impress your customers with full analyses over stocks
-            and completer investment recommendations""",
+            and complete investment recommendations""",
             backstory="""You're the most experienced investment advisor
             and you combine various analytical insights to formulate
             strategic investment advice. You are now working for
