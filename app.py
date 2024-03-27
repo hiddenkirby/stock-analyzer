@@ -37,7 +37,7 @@ class StockAnalysisCrew:
                 filings_task,
                 recommend_task
             ],
-            verbose=True
+            verbose=2
         )
 
         result = crew.kickoff()

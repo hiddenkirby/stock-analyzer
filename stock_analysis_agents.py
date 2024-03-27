@@ -11,9 +11,9 @@ from langchain_community.tools.yahoo_finance_news import YahooFinanceNewsTool
 
 # spin up a local LLM
 os.environ["OPENAI_API_BASE"] = 'http://localhost:11434/v1'
-os.environ["OPENAI_MODEL_NAME"] ='mistral'  # Adjust based on available model
+os.environ["OPENAI_MODEL_NAME"] ='openhermes'  # Adjust based on available model
 os.environ["OPENAI_API_KEY"] =''
-mistral = Ollama(model="mistral")
+mistral = Ollama(model="openhermes")
 
 class StockAnalysisAgents():
     def financial_analyst(self):

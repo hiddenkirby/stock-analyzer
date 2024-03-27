@@ -1,3 +1,8 @@
+# project specific
+report.md
+Revenue_chart.png
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
